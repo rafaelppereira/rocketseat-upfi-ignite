@@ -1,6 +1,3 @@
-# upfi-ignite
-🤳This project was created to upload images with an imageBB library and upload techniques
-
 <h1 align="center">Upfi Ignite</h1>
 
 <p align="center">🤳This project was created to upload images with an imageBB library and upload techniques</p>
